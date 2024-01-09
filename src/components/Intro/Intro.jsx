@@ -35,7 +35,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Let&apos;s us buy your crypto currencies idea that you have and bring it to live</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Let&apos;s us buy your crypto currencies  that you have </span>
           <span>
             <p>Never underestimate the power of the people you already know. Family, friends, coworkers and even acquaintances make a great foundation for your campaign community. Our guide will explain how to use your personal network to create a solid base for your crowdfunding audience. </p>
           </span>
