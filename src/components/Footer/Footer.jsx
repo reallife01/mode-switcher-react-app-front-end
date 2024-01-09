@@ -19,7 +19,7 @@ const Footer = () => {
     <div className="bestowal__footer-links">
       <div className="bestowal__footer-links_logo">
         {/* <img src={assets.bestowal1} alt="gpt3_logo" /> */}
-        <p>No 6 Adebola Adeniyi street, Ota Ogun, Ng <br /> All Rights Reserved</p>
+        <p>No 6 Adebola Adeniyi street, Ota Ogun, Ng <br /> All Rights Reserved 2024</p>
       </div>
       <div className="bestowal__footer-links_div">
         <h4>Links</h4>
